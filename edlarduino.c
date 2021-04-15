@@ -52,6 +52,7 @@ void setup()
 
 void main()
 {
+    setup();
     int converted;
     String tostr;
     while(1)
